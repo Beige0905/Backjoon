@@ -1,4 +1,4 @@
-package net.acmicpc.nnn_nito;
+package net.acmicpc.nnn_nito.level1;
 
 public class Q_2557 {
 
